@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "567636590279",
+    "firebase_url": "https://appweb-7fcc0.firebaseio.com",
+    "project_id": "appweb-7fcc0",
+    "storage_bucket": "appweb-7fcc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567636590279:android:9e5de549f78c87bfd808e2",
+        "android_client_info": {
+          "package_name": "com.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567636590279-lq51oo6qnvg43i3otncdi8bs0tk545ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5VzrCDBK14Z5dYpeNvkxelP6sP7BFUfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567636590279-lq51oo6qnvg43i3otncdi8bs0tk545ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567636590279:android:334cdc162fea82b7d808e2",
+        "android_client_info": {
+          "package_name": "dingpan.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567636590279-lq51oo6qnvg43i3otncdi8bs0tk545ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5VzrCDBK14Z5dYpeNvkxelP6sP7BFUfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567636590279-lq51oo6qnvg43i3otncdi8bs0tk545ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
